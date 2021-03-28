@@ -1,4 +1,4 @@
-# Follow these steps below to run the project
+# Follow these steps below to run the code
 
 `npm install`
 
